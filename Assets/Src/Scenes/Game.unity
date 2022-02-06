@@ -20,9 +20,9 @@ RenderSettings:
   m_FogDensity: 0.01
   m_LinearFogStart: 0
   m_LinearFogEnd: 300
-  m_AmbientSkyColor: {r: 1.3411765, g: 1.3411765, b: 1.3411765, a: 1}
-  m_AmbientEquatorColor: {r: 0.9882355, g: 0.9882355, b: 0.9882355, a: 1}
-  m_AmbientGroundColor: {r: 1.1137255, g: 1.1137255, b: 1.1137255, a: 1}
+  m_AmbientSkyColor: {r: 0.6698113, g: 0.6698113, b: 0.6698113, a: 1}
+  m_AmbientEquatorColor: {r: 0.24528301, g: 0.24528301, b: 0.24528301, a: 1}
+  m_AmbientGroundColor: {r: 0.5566038, g: 0.5566038, b: 0.5566038, a: 1}
   m_AmbientIntensity: 1
   m_AmbientMode: 1
   m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.070568725, g: 0.3537564, b: 0.97078454, a: 1}
+  m_IndirectSpecularColor: {r: 0.2971526, g: 0.63381386, b: 0.9937075, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
